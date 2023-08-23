@@ -1,7 +1,3 @@
-From 4c55b0c2867d71e8def5fd96a7ffaf09fa45aff9 Mon Sep 17 00:00:00 2001
-From: Aman22sharma <kumaraman.rose@gmail.com>
-Date: Fri, 5 Jun 2020 13:10:56 +0530
-Subject: [PATCH] Create Patch File
 
 ---
  src/DataManipulator.ts | 35 ++++++++++++++++++++++++-----------
